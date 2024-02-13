@@ -1,4 +1,5 @@
-# Kafka-Go-Consumer
+# Kafka-Go Library
+
 
 A minimalistic Kafka go consumer for  local and cloud hosted kafka servers.
 
